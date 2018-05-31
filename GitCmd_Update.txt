@@ -1,0 +1,5 @@
+  git add <file> 
+    ## 添加一个文件至 Repository
+  
+  git commit -m <message>
+    ## 提交当前改动至 Repository

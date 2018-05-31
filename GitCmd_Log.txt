@@ -1,0 +1,5 @@
+  git log
+    ## 获取当前 Repository 的所有历史。
+  
+  git relog
+    ## 查看命令历史，回到未来版本。
