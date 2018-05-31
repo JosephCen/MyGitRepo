@@ -9,3 +9,10 @@ Git initialize repository command:
   
   git commit -m <message>
     ## 提交当前改动至 Repository
+
+  git status
+    ## 获取当前 Tree 的状态。
+    ##   对于改动了的文件，最终还是要
+    ##      git add <file>
+    ##      git commit -m <message>
+    
