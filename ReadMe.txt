@@ -16,3 +16,5 @@ Git initialize repository command:
     ##      git add <file>
     ##      git commit -m <message>
     
+  git log
+    ## 获取当前 Repository 的所有历史。
