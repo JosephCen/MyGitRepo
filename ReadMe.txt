@@ -10,4 +10,4 @@ Git initialize repository command:
     ##      git add <file>
     ##      git commit -m <message>
 
-  (Update in Dev branch)
+  (Update in feature1 branch)
